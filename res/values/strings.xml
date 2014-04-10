@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- strings for the main menu -->
+    <string name="app_name">Long Winding Adventure</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu">Main Menu</string>
+    <string name="start">Start an Adventure</string>
+    <string name="load">Load an Adventure</string>
+    <string name="image">Icon of the app</string>
+    <!-- strings for the main menu -->
+    
+    <!-- Strings for the start page of adventure -->
+    <string name="previous">%s previous</string>
+    <string name="decision1">%s one</string>
+    <string name="decision2">%s two</string>
+    <!-- Strings for the start page of adventure -->
+    
+    <!-- auto-genertated should delete later -->
+    <string name="title_activity_start">Start</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- auto-genertated should delete later -->
+    
+    <!-- strings for the splash page -->
+    <string name = "part_img1">Top part of splash</string>
+    <string name = "part_img2">Bottom part of splash</string>
+
+</resources>
